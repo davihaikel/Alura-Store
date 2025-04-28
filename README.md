@@ -34,6 +34,8 @@ A solução visa demonstrar habilidades em modelagem de dados, análise com Pyth
 - Mapeamento geográfico das vendas.
 - Identificação de pontos fortes e fracos para auxiliar na decisão estratégica de encerramento de uma filial.
 
+![Mapa de Calor vendas da Loja 3](HeatMap.PNG)
+
 
 
 
