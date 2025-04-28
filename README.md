@@ -4,6 +4,7 @@
 
 Este projeto é uma análise de indicadores como faturamento, avaliação dos clientes, frete e localidade desenvolvida com Python, com o objetivo de analisar o desempenho de vendas de uma empresa fictícia, que possui 4 filiais e deseja cessar as atividades de uma delas para focar os investimentos em outra área.  
 A solução visa demonstrar habilidades em modelagem de dados, análise com Python, além de boas práticas para facilitar a visualização do usuário.
+
 Os dados foram concedidos pela Alura através do curso de especialização em Data Science, uma parceira Alura e Oracle (Alura ONE)
 
 ---
